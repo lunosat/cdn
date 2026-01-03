@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import path from 'path';
-import router from './routes';
+import router from './routes/index';
 
 const app = express();
 const PORT = process.env.PORT || 3000;
