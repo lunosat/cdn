@@ -120,4 +120,4 @@ cdn/
 
 ---
 
-Feito com 💙 por [Seu Nome/Organização]
+
